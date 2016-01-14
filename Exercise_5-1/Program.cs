@@ -11,7 +11,6 @@ namespace Exercise_5_1
         static void Main()
         {
             /*  Exercise_5_1 
-
            Write an if-statement that takes two integer variables 
            and exchanges their values if the first one is greater than the second one. (Chapter 5, Exercise 1)*/
             
